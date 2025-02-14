@@ -1,1 +1,5 @@
-# PID-balance
+# Ball balance with PID regulation
+This repository was created as an assignment for Physics Laboratory I during the summer course 25 at Impatech. It includes an Arduino sketch with the code for a successful Proportional-Integral-Derivative (PID) control, a Tinkercad circuit showing the electronic components, a slideshow in Portuguese, and a video of my project in action. Feel free to copy and paste any of the following, with credit to me or my references. This project is also open for further refinement.
+
+# Balanço de bola com regulagem PID
+O presente repositório foi criado para registrar uma atividade da disciplina de Laboratório de Física I durante o curso de verão 25 no Impatech. Ele inclui um sketch do Arduino com o código para um controle Proporcional-Integral-Derivativo (PID) bem-sucedido, um circuito no Tinkercad mostrando os componentes eletrônicos necessários, uma apresentação de slides e um vídeo do meu projeto em funcionamento. Sinta-se à vontade para copiar e colar qualquer parte do conteúdo, desde que seja dado crédito a mim ou às minhas referências. Este projeto está aberto a sugestões e refinamentos futuros.
